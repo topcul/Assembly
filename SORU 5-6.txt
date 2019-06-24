@@ -1,0 +1,8 @@
+Soru5: 2000h adresli bellek gözündeki sayýyý 2001h adresli bellek gözündeki sayý ile çarpan, 
+çarpým sonucunu 2002h adresli bellek gözüne yazan ve sonucu 2000h ve 2001h adreslerindeki sayýlarýn mutlak farkýna bölen, 
+bölme sonucunu 2003h adresli bellek gözüne, bölmeden kalan sayýsý 2004h adresli bellek gözüne yazan, 
+bölen sayý sýfýr ise hatayý önlemek için bölen sayýya 05h sayýsýný ekleyip yine ayný iþlemleri yapan Intelx86 programýný yazýnýz. 
+ 
+Soru6: Yýðýn yapýsýný kullanarak, bellekteki bir konumdan art arda 10 sayý okuyan ve bu sayýlarýn her adýmdaki ortalamasýný
+(toplamda 10 ortalama olmak üzere) yýðýna koyan Intelx86 programýný yazýnýz. 
+ 
