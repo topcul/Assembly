@@ -1,0 +1,18 @@
+Soru8: Belleðe sayýlar etiketi ile tanýmlý 5 tane 4 bitlik sayýdan her birinin bitlerinde 0 olup olmadýðýný kontrol eden, eðer tüm bitler 0 ise programý sonlandýran programý yazýnýz. 
+Soru9: Aþaðýdaki programý yorumlayýnýz. 
+org 100h 
+mov ax, cs 
+mov ds, ax 
+mov es, ax 
+cld 
+mov cx, 14 
+lea si, YAZI 
+mov di, 200h 
+DEVAM: 
+LODSB 
+STOSB 
+LOOP DEVAM 
+HLT 
+ret 
+yazi db ‘’Merhaba Dunya!’’ 
+Soru10: Ekrana adýnýzý ve soyadýnýzý renkli harflerle yazan programý yazýnýz.
