@@ -1,0 +1,6 @@
+Soru: (27+15)*(625-250)+191 iþlemini yapan Intelx86 programýný sadece AX ve BX yazmaçlarýný kullanarak oluþturunuz. 
+AX yazmacýnda tutulan sonucu yazýnýz.
+
+ 
+Soru: FFFFh sayýsýný AFFFh sayýsý ile çarpan, çarpým sonucunun en önemli iki bitini 12h sayýsýna bölen, 
+elde ettiðiniz  kalandan bölümü çýkaran, sonucu 27h sayýsý ile toplayan ve  toplamý 0700:0300h adresine yazan Intelx86 programýný oluþturunuz. 
