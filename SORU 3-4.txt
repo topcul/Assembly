@@ -1,0 +1,4 @@
+Soru 3: AAAh sayýsýný Ah  sayýsýna bölen, sonuçta çift eþlik var(even parity) ise 0200:0300h adresine Bh sayýsýný yazan, 
+yok ise sonucu CCCh sayýsý ile toplayan, sonuçta çift eþlik varsa 0200:0400h adresine toplam sonucunu yazan, yok ise programý bitiren Intelx86 programýný oluþturunuz. 
+
+Soru 4: 100'den küçük 4’e ve 5’e tam bölünebilen doðal sayýlarýn toplamýný bulan ve bu toplamý 0700:0700h adresine yazan Intelx86 programýný yazýnýz. 
