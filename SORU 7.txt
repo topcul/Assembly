@@ -1,0 +1,2 @@
+Soru7: Bellekte dizi etiketi ile tanýmlý 1’den 10’a kadar 5 tane sayý olsun. 
+Sayýlar arasýndan en büyüðünü ve en küçüðünü bulup ortalamasýný alan ve sonucu BL yazmacýna atan programý yazýnýz.
